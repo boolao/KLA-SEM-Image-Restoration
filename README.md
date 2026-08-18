@@ -13,7 +13,7 @@ This repository contains the complete training pipeline and evaluation script fo
 
 **Prerequisites:** Ensure you have Python and Git installed on your system.
 
-## 🛠️ Setup & Installation
+## Setup & Installation
 
 **Prerequisites:** Ensure you have Python and Git installed on your system.
 
@@ -31,7 +31,7 @@ cd KLA-SEM-Image-Restoration
 ```bash
 pip install -r requirements.txt
 ```
-## 🚀 How to Run Inference
+## How to Run Inference
 
 To evaluate the model on a new set of degraded `.npy` images, use the `run.py` script. The script requires two arguments: the folder containing the noisy inputs, and the folder where you want the restored images saved.
 
