@@ -13,5 +13,5 @@ This repository contains the complete training pipeline and evaluation script fo
 
 1. Clone this repository:
 ```bash
-git clone [https://github.com/boolao/KLA-SEM-Image-Restoration.git](https://github.com/boolao/KLA-SEM-Image-Restoration.git)
-cd KLA-SEM-Image-Restoration
+git clone [https://github.com/YourUsername/YourRepoName.git](https://github.com/YourUsername/YourRepoName.git)
+cd YourRepoName
